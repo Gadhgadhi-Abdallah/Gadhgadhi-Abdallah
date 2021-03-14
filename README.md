@@ -2,4 +2,5 @@
 - 💞️ I’m an Electromechanical Engineer
 - 👀 I’m interested in AI Engineering
 - 🌱 I’m currently learning Deep Learning & Machine Learning
-- 📫 You can contact me by Email: gadabdallah@gmail.com
+- 📫 linKedin:https://www.linkedin.com/in/abdallah-gadhgadhi-972058134/ 
+      Email: gadabdallah@gmail.com
