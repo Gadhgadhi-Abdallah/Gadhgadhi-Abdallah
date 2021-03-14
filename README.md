@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gadhgadhi Abdallah
+- 💞️ I’m an Electromechanical Engineer
+- 👀 I’m interested in AI Engineering
+- 🌱 I’m currently learning Deep Learning & Machine Learning
+- 📫 You can contact me by Email: gadabdallah@gmail.com
